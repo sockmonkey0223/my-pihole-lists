@@ -15,7 +15,6 @@ game.internetat.tv
 ns11.whois.co.kr
 d2tnx644ijgq6i.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
-d1oxlq5h9kq8q5.cloudfront.net
 d179kwmlpc4o47.cloudfront.net
 az43064.vo.msecnd.net
 www.samsungrm.net
