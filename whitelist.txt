@@ -121,3 +121,4 @@ d1oxlq5h9kq8q5.cloudfront.net
 events.appsflyer.com
 smetrics.att.com
 register.appsflyer.com
+api.foursquare.com
