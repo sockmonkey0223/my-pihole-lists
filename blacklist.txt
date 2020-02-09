@@ -1,6 +1,0 @@
-cdn.adfront.org
-coordinator-production-28516768.us-east-1.elb.amazonaws.com
-d179kwmlpc4o47.cloudfront.net
-az43064.vo.msecnd.net
-auth.samsungosp.com
-ad.samsungadhub.com
