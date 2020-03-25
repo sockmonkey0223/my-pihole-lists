@@ -122,3 +122,5 @@ events.appsflyer.com
 smetrics.att.com
 register.appsflyer.com
 api.foursquare.com
+telemetry-prd.ap.tesla.services
+telemetry-prd.vn.tesla.services
